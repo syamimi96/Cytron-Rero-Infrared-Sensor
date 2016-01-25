@@ -15,7 +15,7 @@ byte ID; //byte ID is INFRARED SENSOR unique ID
 byte Ir; //byte Ir is INFRARED SENSOR NEW Ir Threshold value
 
 ## Returns ##
-Frist time Return Ramdom Value
+Frist time Return Random Value
 
 Then Return IR Sensor Reading Error
 
