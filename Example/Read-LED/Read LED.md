@@ -28,5 +28,5 @@ LED= IR.readLED(1); // call out the function of readLED with ID = 1(rero Infrare
 
 ## See Also ##
 
-[errStatus](https://github.com/syamimi96/Library-for-Rero-infrared-sensor-/blob/wiki/Example/errStatus.md)
+[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus)
 
