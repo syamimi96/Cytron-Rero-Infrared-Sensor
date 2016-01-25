@@ -17,7 +17,7 @@ return IR Threshold Value
 
 ## Example ##
 byte Ir
-Ir=readIrThreshold (1); //reading ID 1 Infrared Sensor Ir Threshold Value
+Val=IR.readIrThreshold (1); //reading ID 1 Infrared Sensor Ir Threshold Value
 
 ## See Also ##
 
