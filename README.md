@@ -24,3 +24,9 @@ There have 9 Function:<br/>
 
 <a href="https://github.com/syamimi96/Library-for-Rero-infrared-sensor-/blob/wiki/Example/Write-LED/Write%20LED.md" target="_blank"><strong>WriteLED</strong></a>     - Write the mode of Infrared Sensor LED.<br/>
 
+<a href="https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/Read-IR-TRG/Read%20IR%20TRG.md" target="_blank"><strong>ReadIRTRG</strong></a>     - Read the mode of Infrared Trigger Sensor .<br/>
+
+<a href="https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/Read-IR-Threshold/Read%20IR%20Threshold.md" target="_blank"><strong>ReadIRThreshold</strong></a>     - Read the mode of Infrared Threshold Sensor .<br/>
+
+<a href="https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/Write-IR-Threshold/Write%20IR%20Threshold.md" target="_blank"><strong>WriteIRThreshold</strong></a>     - Write the mode of Infrared Threshold Sensor.<br/>
+
