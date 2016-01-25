@@ -21,5 +21,5 @@ Val=IR.readIrThreshold (1); //reading ID 1 Infrared Sensor Ir Threshold Value
 
 ## See Also ##
 
-[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus
+[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus.md
 )
