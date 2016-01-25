@@ -28,5 +28,5 @@ IR.writeIrThreshold(1,126); // set ID 1 Infrared Senor to 126 New Ir Threshold v
 
 ## See Also ##
 
-[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus)
+[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus.md)
 
