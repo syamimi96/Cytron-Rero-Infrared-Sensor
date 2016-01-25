@@ -28,5 +28,5 @@ ledWrite= IR.writeLED(1,2); // read ID 1 control register LED.
 
 ## See Also ##
 
-[errStatus](https://github.com/syamimi96/Library-for-Rero-infrared-sensor-/blob/wiki/Example/errStatus.md)
+[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus)
 
