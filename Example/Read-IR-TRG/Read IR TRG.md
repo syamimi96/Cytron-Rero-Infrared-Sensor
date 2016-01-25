@@ -24,4 +24,4 @@ TRG=IR.readIRTRG(1); //reading Ir TRG value form ID 1 Infrared Sensor
 
 ## See Also ##
 
-[errStatus](https://github.com/syamimi96/Library-for-Rero-infrared-sensor-/blob/wiki/Example/errStatus.md)
+[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus)
