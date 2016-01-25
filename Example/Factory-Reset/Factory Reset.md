@@ -28,5 +28,5 @@ reset= IR.factoryReset(1); // call out the function of factory reset with ID = 1
 
 ## Find Out ##
 
-[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus)
+[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus.md)
 
