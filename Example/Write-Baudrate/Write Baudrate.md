@@ -30,4 +30,4 @@ baudrateWrite= IR.ping(1,103);// call out the function of write baudrate with ID
 
 ## See Also ##
 
-[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus)
+[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus.md)
