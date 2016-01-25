@@ -29,5 +29,5 @@ idWrite= IR.writeID(1,2);// call out the function of write ID with ID = 1(rero I
 
 ## See Also ##
 
-[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus)
+[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus.md)
 
