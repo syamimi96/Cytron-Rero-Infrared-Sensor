@@ -35,5 +35,5 @@ type[0]=(char)(model>>8);
 Serial.println(type);
   
 ## See Also ##
-[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus)
+[errStatus](https://github.com/syamimi96/Cytron-Rero-Infrared-Sensor/blob/wiki/Example/errorStatus.md)
 
